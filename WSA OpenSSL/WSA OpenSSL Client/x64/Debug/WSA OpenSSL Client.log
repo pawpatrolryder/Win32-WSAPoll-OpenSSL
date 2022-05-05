@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\mbox\source\repos\WSA OpenSSL\WSA OpenSSL Client\Source.cpp(90,18): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\mbox\source\repos\WSA OpenSSL\WSA OpenSSL Client\Source.cpp(99,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mbox\source\repos\WSA OpenSSL\WSA OpenSSL Client\Source.cpp(126,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  WSA OpenSSL Client.vcxproj -> C:\Users\mbox\source\repos\WSA OpenSSL\x64\Debug\WSA OpenSSL Client.exe

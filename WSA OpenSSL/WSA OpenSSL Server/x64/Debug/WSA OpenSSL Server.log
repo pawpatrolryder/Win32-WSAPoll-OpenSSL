@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\mbox\source\repos\WSA OpenSSL\WSA OpenSSL Server\Source.cpp(143,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mbox\source\repos\WSA OpenSSL\WSA OpenSSL Server\Source.cpp(166,37): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+  WSA OpenSSL Server.vcxproj -> C:\Users\mbox\source\repos\WSA OpenSSL\x64\Debug\WSA OpenSSL Server.exe
